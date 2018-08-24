@@ -15,7 +15,9 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "ajv": "^6.5.3",
     "enzyme": "^3.4.4",
+    "enzyme-adapter-react-16": "^1.2.0",
     "i": "^0.3.6",
     "jest-cli": "^20.0.4",
     "npm": "^6.4.0",
